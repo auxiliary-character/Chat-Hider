@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chathider",
+  "name": "Chat Hider",
+  "description": "Hides snitches from chat.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["auxchar"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
