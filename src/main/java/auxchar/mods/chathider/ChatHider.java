@@ -19,7 +19,7 @@ public class ChatHider {
     @EventHandler
     public void init(FMLInitializationEvent event) {
         ChatListener listener = new ChatListener();
-		MinecraftForge.EVENT_BUS.register(listener);
-		FMLCommonHandler.instance().bus().register(listener);
+        MinecraftForge.EVENT_BUS.register(listener);
+        FMLCommonHandler.instance().bus().register(listener);
     }
 }
