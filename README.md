@@ -2,6 +2,8 @@
 
 Hides snitches from chat, so you don't have to edit your l33t PvP videos.
 
+![Screenshot](http://i.imgur.com/BWJa4Vo.png)
+
 ##Building
 
 Use `./gradlew build` on Mac or Linux or `gradle.bat build` on Windows.
